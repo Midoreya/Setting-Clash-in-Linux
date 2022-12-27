@@ -22,5 +22,4 @@ Socks 127.0.0.1:7891
 Clash Dashboard:
 http://clash.razord.top/
 Host: 127.0.0.1  
-Port: 9090  
-Secret: 123456
+Port: 9090
